@@ -21,10 +21,12 @@ I am a
 
 I love
 
-* ⛵ Going out to sail
-* 🍺 Brewing mead
-* 🐱‍💻 Messing with new technologies 
-* Dogs!  <img src="https://media.giphy.com/media/pHZdGyFNp5sUXq4jp5/giphy.gif" alt="dog" height=15>
+<ul>
+<li>⛵ Going out to sail</li>
+<li>🍺 Brewing mead</li>
+<li>🐱‍💻 Messing with new technologies </li>
+<li>Dogs!  <img src="https://media.giphy.com/media/pHZdGyFNp5sUXq4jp5/giphy.gif" alt="dog" height=15></li>
+</ul>
 
 I speak
 
