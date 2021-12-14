@@ -26,7 +26,12 @@ I love
 * 🐱‍💻 Messing with new technologies 
 * <img src="https://media.giphy.com/media/pHZdGyFNp5sUXq4jp5/giphy.gif" alt="dog" height=15> Dogs!
 
-I speak: 🇪🇸, catalan, 🇬🇧 and a little bit of 🇮🇹 🤌
+I speak
+
+* 🇪🇸
+* catalan
+* 🇬🇧 
+* and a little bit of 🇮🇹 🤌
 
 
 <h1 align="center">
