@@ -24,7 +24,7 @@ I love
 * ⛵ Going out to sail
 * 🍺 Brewing mead
 * 🐱‍💻 Messing with new technologies 
-* <img src="https://media.giphy.com/media/pHZdGyFNp5sUXq4jp5/giphy.gif" alt="dog" height=15> Dogs!
+* Dogs!  <img src="https://media.giphy.com/media/pHZdGyFNp5sUXq4jp5/giphy.gif" alt="dog" height=15>
 
 I speak
 
