@@ -128,52 +128,37 @@ I speak: 🇪🇸, catalan, 🇬🇧 and a little bit of 🇮🇹 🤌
 
 
 <div align="middle">
-    <td colspan="100%">
-        <a href="https://stackoverflow.com/users/9248718/some-random-it-boy">
-            <img src="https://stackoverflow.com/users/flair/9248718.png" width="208" height="58" alt="profile for Some random IT boy at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Some random IT boy at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
-        </a>
-    </td>
+  <a href="https://stackoverflow.com/users/9248718/some-random-it-boy">
+    <img src="https://stackoverflow.com/users/flair/9248718.png" width="208" height="58" alt="profile for Some random IT boy at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Some random IT boy at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
+  </a>
 </div>
 <br>
 
-<table width="100%">
-<tr>
-<td align="right">
-    <a href="https://twitter.com/NanoSpicer" target="_blank">
-        <img src="images/twitter.png" width="50" height="50" alt="">
-    </a>
-</td>
-<td align="middle">
-    <a href="https://www.linkedin.com/in/miquel-%C3%A0ngel-rom%C3%A1n-colom/" target="_blank">
-        <img src="images/linkedin.png" width="50" height="50" alt="">
-    </a>
-</td>
-<td align="left">
-    <a 
-        href="mailto:miquelrc95@outlook.es?Subject=Hi!%20I've%20found%20you%20on%20github!">
-        <img src="images/outlook.png" width="50" height="50" alt="">
-    </a>
-</td>
-
-<td align="right">
-    <a 
-        href="https://codepen.io/NanoSpicer/pens/public" target="_blank">
-        <img src="images/codepen.png" width="50" height="50" alt="">
-    </a>
-</td>
-
-<td align="middle">
-    <a href="https://www.instagram.com/nanospicer/" target="_blank">
-        <img src="images/instagram.png" width="50" height="50" alt="">
-    </a>
-</td>
-<td align="left">
-    <a href="https://www.reddit.com/user/NanoSpicer" target="_blank">
-        <img src="images/reddit50.png" width="50" height="50" alt="">
-    </a>
-</td>
-</tr>
-</table>
+<div align="center">
+  <a href="https://twitter.com/NanoSpicer" target="_blank">
+    <img src="images/twitter.png" width="50" height="50" alt="">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/miquel-%C3%A0ngel-rom%C3%A1n-colom/" target="_blank">
+    <img src="images/linkedin.png" width="50" height="50" alt="">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:miquelrc95@outlook.es?Subject=Hi!%20I've%20found%20you%20on%20github!">
+    <img src="images/outlook.png" width="50" height="50" alt="">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://codepen.io/NanoSpicer/pens/public" target="_blank">
+    <img src="images/codepen.png" width="50" height="50" alt="">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/nanospicer/" target="_blank">
+    <img src="images/instagram.png" width="50" height="50" alt="">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.reddit.com/user/NanoSpicer" target="_blank">
+    <img src="images/reddit50.png" width="50" height="50" alt="">
+  </a>
+</div>
 
 <h1 align="center">
     thanks for passing by
