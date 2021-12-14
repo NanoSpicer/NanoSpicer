@@ -26,7 +26,7 @@ I love
 * 🐱‍💻 Messing with new technologies 
 * Dogs!  
 
-<img src="https://media.giphy.com/media/pHZdGyFNp5sUXq4jp5/giphy.gif" alt="dog" height=30>
+<img src="https://media.giphy.com/media/qBL0GWqYqwFMs/giphy.gif" height=50>
 
 I speak
 
@@ -177,7 +177,7 @@ I speak
 </div>
 <br>
 
-<div align="end">
+<div align="right">
 <i>and happy coding</i>
 </div>
 
